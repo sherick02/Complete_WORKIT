@@ -1,0 +1,2 @@
+com/intuit/sdp/BuildConfig.java
+ com.intuit.sdp.BuildConfig
